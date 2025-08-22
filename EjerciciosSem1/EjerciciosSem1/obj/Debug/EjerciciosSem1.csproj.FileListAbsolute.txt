@@ -1,0 +1,10 @@
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\bin\Debug\EjerciciosSem1.exe.config
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\bin\Debug\EjerciciosSem1.exe
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\bin\Debug\EjerciciosSem1.pdb
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\obj\Debug\EjerciciosSem1.csproj.AssemblyReference.cache
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\obj\Debug\EjerciciosSem1.Form1.resources
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\obj\Debug\EjerciciosSem1.Properties.Resources.resources
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\obj\Debug\EjerciciosSem1.csproj.GenerateResource.cache
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\obj\Debug\EjerciciosSem1.csproj.CoreCompileInputs.cache
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\obj\Debug\EjerciciosSem1.exe
+C:\Users\joelj\Documents\EjerciciosSem1\EjerciciosSem1\obj\Debug\EjerciciosSem1.pdb
