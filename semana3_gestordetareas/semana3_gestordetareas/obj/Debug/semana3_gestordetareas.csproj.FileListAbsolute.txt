@@ -1,0 +1,11 @@
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\obj\Debug\semana3_gestordetareas.csproj.AssemblyReference.cache
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\obj\Debug\semana3_gestordetareas.Properties.Resources.resources
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\obj\Debug\semana3_gestordetareas.csproj.GenerateResource.cache
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\obj\Debug\semana3_gestordetareas.csproj.CoreCompileInputs.cache
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\bin\Debug\semana3_gestordetareas.exe.config
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\bin\Debug\semana3_gestordetareas.exe
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\bin\Debug\semana3_gestordetareas.pdb
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\obj\Debug\semana3_gestordetareas.Form1.resources
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\obj\Debug\semana3_gestordetareas.exe
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\obj\Debug\semana3_gestordetareas.pdb
+C:\Users\joelj\Documents\programacion-visual\semana3_gestordetareas\semana3_gestordetareas\obj\Debug\semana3_gestordetareas.exe.config
