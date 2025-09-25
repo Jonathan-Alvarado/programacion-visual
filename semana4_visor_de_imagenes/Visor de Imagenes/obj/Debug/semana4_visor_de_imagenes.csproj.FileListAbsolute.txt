@@ -1,0 +1,11 @@
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe.config
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.exe
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\bin\Debug\Visor de Imagenes.pdb
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\obj\Debug\semana4_visor_de_imagenes.csproj.AssemblyReference.cache
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe.config
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Form1.resources
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\obj\Debug\Visor_de_Imagenes.Properties.Resources.resources
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\obj\Debug\semana4_visor_de_imagenes.csproj.GenerateResource.cache
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\obj\Debug\semana4_visor_de_imagenes.csproj.CoreCompileInputs.cache
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.exe
+C:\Users\joelj\Documents\programacion-visual\semana4_visor_de_imagenes\Visor de Imagenes\obj\Debug\Visor de Imagenes.pdb

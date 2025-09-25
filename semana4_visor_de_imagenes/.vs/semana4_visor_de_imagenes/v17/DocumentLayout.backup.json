@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\semana4_visor_de_imagenes.csproj|c:\\users\\joelj\\documents\\programacion-visual\\semana4_visor_de_imagenes\\visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\semana4_visor_de_imagenes.csproj|solutionrelative:visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|semana4_visor_de_imagenes||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\Visor de Imagenes.csproj|C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\Visor de Imagenes.csproj|solutionrelative:visor de imagenes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\Visor de Imagenes.csproj|C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\visor de imagenes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0946A3F-5970-4C21-B27B-F3E9699C5A8D}|Visor de Imagenes\\Visor de Imagenes.csproj|solutionrelative:visor de imagenes\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\Visor de Imagenes\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Visor de Imagenes\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\Visor de Imagenes\\Form1.Designer.cs",
+              "RelativeToolTip": "Visor de Imagenes\\Form1.Designer.cs",
+              "ViewState": "AgIAAMABAAAAAAAAAADwv98BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:45:32.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\Visor de Imagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "Visor de Imagenes\\Form1.cs",
+              "ToolTip": "C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\Visor de Imagenes\\Form1.cs",
+              "RelativeToolTip": "Visor de Imagenes\\Form1.cs",
+              "ViewState": "AgIAAOUBAAAAAAAAAAAAABQCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T18:58:28.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\Visor de Imagenes\\Form1.cs",
+              "RelativeDocumentMoniker": "Visor de Imagenes\\Form1.cs",
+              "ToolTip": "C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\Visor de Imagenes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Visor de Imagenes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T00:39:44.433Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "semana4_visor_de_imagenes",
+              "DocumentMoniker": "C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\Visor de Imagenes\\semana4_visor_de_imagenes.csproj",
+              "RelativeDocumentMoniker": "Visor de Imagenes\\semana4_visor_de_imagenes.csproj",
+              "ToolTip": "C:\\Users\\joelj\\Documents\\programacion-visual\\semana4_visor_de_imagenes\\Visor de Imagenes\\semana4_visor_de_imagenes.csproj",
+              "RelativeToolTip": "Visor de Imagenes\\semana4_visor_de_imagenes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-08T18:34:18.357Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
