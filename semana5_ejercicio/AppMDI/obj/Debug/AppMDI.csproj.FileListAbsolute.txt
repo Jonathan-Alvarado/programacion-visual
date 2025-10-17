@@ -1,0 +1,28 @@
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\bin\Debug\AppMDI.exe.config
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\bin\Debug\AppMDI.exe
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\bin\Debug\AppMDI.pdb
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.MDIEstudiantes.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.exe
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.pdb
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.exe.config
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.Form2.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.Form3.resources
+C:\Users\Lenovo\Documents\Tareas de visual - folder de trabajo\AppMDI\AppMDI\obj\Debug\AppMDI.Form4.resources
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\bin\Debug\AppMDI.exe.config
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\bin\Debug\AppMDI.exe
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\bin\Debug\AppMDI.pdb
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.csproj.AssemblyReference.cache
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.exe.config
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.MDIEstudiantes.resources
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.Form2.resources
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.Form3.resources
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.Form4.resources
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.Properties.Resources.resources
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.csproj.GenerateResource.cache
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.csproj.CoreCompileInputs.cache
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.exe
+C:\Users\joelj\Documents\unan\P Visual\AppMDI\AppMDI\obj\Debug\AppMDI.pdb
