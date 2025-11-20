@@ -1,0 +1,11 @@
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\bin\Debug\Threads1.exe.config
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\bin\Debug\Threads1.exe
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\bin\Debug\Threads1.pdb
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\obj\Debug\procesosen2doplano.csproj.AssemblyReference.cache
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\obj\Debug\Threads1.exe.config
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\obj\Debug\Threads1.Form1.resources
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\obj\Debug\Threads1.Properties.Resources.resources
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\obj\Debug\procesosen2doplano.csproj.GenerateResource.cache
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\obj\Debug\procesosen2doplano.csproj.CoreCompileInputs.cache
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\obj\Debug\Threads1.exe
+C:\Users\joelj\Documents\programacion-visual\Threads1\Threads1\obj\Debug\Threads1.pdb
